@@ -1,4 +1,4 @@
-<h1 style="color: #000000; text-align: center">Lara Maia</h1>
+<h1 align="center" style="color: #000000">Lara Maia</h1>
 <p align="center">
   <a href="mailto:laracarolinemaya@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-2D4035?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D4035" alt="Gmail">
