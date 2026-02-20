@@ -1,1 +1,17 @@
-# readme-teste
+<h1 style="color: #000000; text-align: center">Lara Maia</h1>
+<p align="center">
+  <a href="mailto:laracarolinemaya@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-2D4035?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D4035" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/lara-caroline-maia" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-2D4035?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D4035" alt="LinkedIn">
+  </a>
+  <a href="https://www.github.com/laramaia" target="_blank" title="Github">
+    <img src="https://img.shields.io/badge/GitHub-2D4035?style=for-the-badge&logo=github&logoColor=white&labelColor=2D4035" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/laramaia?label=STARS&style=for-the-badge&color=151422" alt="Stars">
+  <img src="https://img.shields.io/badge/REPOS-15-151422?style=for-the-badge" alt="Total Repositories">
+</p>
