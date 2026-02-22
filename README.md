@@ -1,4 +1,4 @@
-<h1>Olá, eu sou a <span style="color: #3C2F40">Lara Maia!</span></h1>
+<h1>Olá, eu sou a <span style="color: #2190DB">Lara Maia</span> 👋</h1>
 
 <p>
   <a href="mailto:laracarolinemaya@gmail.com" title="Gmail">
